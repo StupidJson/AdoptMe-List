@@ -160,7 +160,7 @@ LoadText.TextWrapped = true
 -- Scripts: 
 
 RealName112GUI.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/Z3iAXASr"), true)()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Psychiatrist-Colman/Scripts/master/AdoptMeMain.lua",true))()
 end)
 
 -- Load Text:
